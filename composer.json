@@ -1,5 +1,5 @@
 {
-    "name": "diagram/algolia-search-bundle",
+    "name": "killianQ/algolia-search-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
